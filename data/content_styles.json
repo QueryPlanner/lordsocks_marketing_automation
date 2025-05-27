@@ -1,0 +1,143 @@
+{
+  "styles": [
+    {
+      "id": "lifestyle_casual",
+      "name": "Lifestyle Casual",
+      "duration": 15,
+      "mood": "relaxed",
+      "music_genre": "indie_pop",
+      "color_palette": ["warm_neutral", "soft_pastels"],
+      "camera_movements": ["slow_pan", "close_up_details"],
+      "text_style": {
+        "font": "modern_sans",
+        "size": "medium",
+        "animation": "fade_in"
+      },
+      "scenes": [
+        {
+          "duration": 5,
+          "content": "product_showcase",
+          "description": "Close-up of sock texture and details"
+        },
+        {
+          "duration": 7,
+          "content": "lifestyle_shot",
+          "description": "Person wearing socks in comfortable setting"
+        },
+        {
+          "duration": 3,
+          "content": "product_info",
+          "description": "Key features and price display"
+        }
+      ]
+    },
+    {
+      "id": "athletic_dynamic",
+      "name": "Athletic Dynamic",
+      "duration": 12,
+      "mood": "energetic",
+      "music_genre": "electronic_upbeat",
+      "color_palette": ["high_contrast", "neon_accents"],
+      "camera_movements": ["fast_cuts", "action_shots"],
+      "text_style": {
+        "font": "bold_sans",
+        "size": "large",
+        "animation": "slide_in"
+      },
+      "scenes": [
+        {
+          "duration": 4,
+          "content": "action_sequence",
+          "description": "Athletic activities showcasing sock performance"
+        },
+        {
+          "duration": 5,
+          "content": "feature_highlights",
+          "description": "Moisture-wicking and comfort features"
+        },
+        {
+          "duration": 3,
+          "content": "call_to_action",
+          "description": "Strong CTA with pricing"
+        }
+      ]
+    },
+    {
+      "id": "luxury_elegant",
+      "name": "Luxury Elegant",
+      "duration": 18,
+      "mood": "sophisticated",
+      "music_genre": "classical_minimal",
+      "color_palette": ["monochrome", "gold_accents"],
+      "camera_movements": ["smooth_tracking", "premium_angles"],
+      "text_style": {
+        "font": "elegant_serif",
+        "size": "refined",
+        "animation": "elegant_reveal"
+      },
+      "scenes": [
+        {
+          "duration": 6,
+          "content": "luxury_showcase",
+          "description": "Premium materials and craftsmanship focus"
+        },
+        {
+          "duration": 8,
+          "content": "professional_context",
+          "description": "Business/formal wear styling"
+        },
+        {
+          "duration": 4,
+          "content": "quality_assurance",
+          "description": "Brand heritage and quality promise"
+        }
+      ]
+    },
+    {
+      "id": "seasonal_cozy",
+      "name": "Seasonal Cozy",
+      "duration": 16,
+      "mood": "warm_inviting",
+      "music_genre": "acoustic_folk",
+      "color_palette": ["autumn_tones", "warm_textures"],
+      "camera_movements": ["gentle_zoom", "cozy_angles"],
+      "text_style": {
+        "font": "friendly_sans",
+        "size": "comfortable",
+        "animation": "warm_fade"
+      },
+      "scenes": [
+        {
+          "duration": 5,
+          "content": "seasonal_setting",
+          "description": "Cozy home environment with seasonal elements"
+        },
+        {
+          "duration": 7,
+          "content": "comfort_focus",
+          "description": "Emphasis on warmth and comfort features"
+        },
+        {
+          "duration": 4,
+          "content": "lifestyle_integration",
+          "description": "How socks fit into seasonal lifestyle"
+        }
+      ]
+    }
+  ],
+  "global_settings": {
+    "aspect_ratio": "9:16",
+    "resolution": "1080x1920",
+    "frame_rate": 30,
+    "audio_levels": {
+      "music": 0.7,
+      "voiceover": 0.9,
+      "sound_effects": 0.5
+    },
+    "brand_elements": {
+      "logo_placement": "bottom_right",
+      "logo_duration": 3,
+      "brand_colors": ["#1a1a1a", "#f5f5f5", "#c9a96e"]
+    }
+  }
+} 

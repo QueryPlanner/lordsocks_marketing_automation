@@ -1,0 +1,48 @@
+[
+  {
+    "id": "blue_dragon_1",
+    "name": "Blue Dragon",
+    "description": "Comfortable everyday socks with superior cushioning and premium cotton blend for all-day comfort",
+    "colors": ["white"],
+    "style": "crew",
+    "target_audience": "professionals_casual",
+    "image_paths": [
+      "assets/product_images/blue_dragon_1.jpg",
+      "assets/product_images/blue_dragon_2.jpg", 
+      "assets/product_images/blue_dragon_3.jpg", 
+      "assets/product_images/blue_dragon_4.jpg", 
+      "assets/product_images/blue_dragon_5.jpg"
+    ],
+    "keywords": ["premium cotton blend", "all-day comfort", "reinforced heel and toe", "moisture-wicking"]
+  },
+  {
+    "id": "athletic_performance_002",
+    "name": "LordSocks Athletic Performance",
+    "description": "High-performance athletic socks for active lifestyles with advanced moisture-wicking technology",
+    "colors": ["black", "white", "neon_green", "blue"],
+    "style": "athletic",
+    "target_audience": "fitness_enthusiasts",
+    "image_paths": ["assets/product_images/athletic_performance_002.jpg"],
+    "keywords": ["advanced moisture-wicking", "compression zones", "blister prevention", "odor control technology"]
+  },
+  {
+    "id": "luxury_dress_003",
+    "name": "LordSocks Luxury Dress",
+    "description": "Premium dress socks for professional and formal occasions made with merino wool blend",
+    "colors": ["black", "charcoal", "navy", "burgundy"],
+    "style": "dress",
+    "target_audience": "professionals_formal",
+    "image_paths": ["assets/product_images/luxury_dress_003.jpg"],
+    "keywords": ["premium merino wool", "temperature regulation", "professional appearance", "long-lasting durability"]
+  },
+  {
+    "id": "cozy_winter_004",
+    "name": "LordSocks Cozy Winter",
+    "description": "Extra warm thermal socks for cold weather comfort with soft wool blend and plush cushioning",
+    "colors": ["cream", "forest_green", "burgundy", "charcoal"],
+    "style": "thermal",
+    "target_audience": "comfort_seekers",
+    "image_paths": ["assets/product_images/cozy_winter_004.jpg"],
+    "keywords": ["extra warmth", "soft wool blend", "cold weather protection", "plush cushioning"]
+  }
+] 

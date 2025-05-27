@@ -1,0 +1,38 @@
+# Environment variables
+.env
+*.env.*
+!/.env.example
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Audio
+*.mp3
+*.wav
+*.aac
+*.flac
+*.ogg
+*.m4a
+
+# Video
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.flv
+*.wmv
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.webp
+*.tiff
+*.tif
+*.bmp
+*.heic
+*.heif 

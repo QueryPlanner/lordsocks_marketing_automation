@@ -1,0 +1,73 @@
+{
+  "date": "2025-05-26",
+  "reel_number": 1,
+  "sock_id": "blue_dragon_1",
+  "format_type": "mixed_media",
+  "duration": 19,
+  "content_style": {
+    "ad_style": "humor",
+    "voice_style": "male_quirky",
+    "mood": "fun",
+    "target_emotion": "entertainment"
+  },
+  "video_prompts": [
+    {
+      "duration_seconds": 8,
+      "title": "The Hard Floor Tango",
+      "description": "Opens on a brightly lit, minimalist living space with a polished concrete floor. A quirky, energetic person (20s-30s, dressed casually) attempts an elaborate 'comfort dance' \u2013 a mix of balletic spins and jazz hands \u2013 but their bare feet (or thin, worn socks) are clearly suffering. Their movements become increasingly pained and exaggeratedly awkward: wincing, hobbling on tiptoes, doing comical 'air steps' to avoid landing. They occasionally hop on one foot, massaging the other, with a dramatically pained expression. The scene culminates with them collapsing onto a strategically placed, very soft beanbag chair, holding their feet dramatically, looking utterly defeated.",
+      "visual_cues": [
+        "Wide shot of a person performing an increasingly painful 'comfort dance' on a sleek, hard floor.",
+        "Close-up on their wincing facial expressions and visibly uncomfortable feet (bare or thin socks).",
+        "Exaggerated tiptoeing, hopping, and sudden, dramatic pauses.",
+        "Comical collapse onto a large, plush beanbag chair, feet held aloft in mock agony."
+      ],
+      "audio_cues": [
+        "Upbeat, slightly goofy, jazzy background music that becomes increasingly staccato and strained.",
+        "Exaggerated, comical 'thud' and 'oof' sounds as the person moves awkwardly.",
+        "A dramatic, drawn-out sigh of defeat as they collapse.",
+        "Subtle, comical 'panting' sounds."
+      ],
+      "on_screen_text": []
+    },
+    {
+      "duration_seconds": 8,
+      "title": "Cloud-Like Transformation",
+      "description": "Continues from Scene 1. The defeated person is still slumped on the beanbag. A pair of pristine white Blue Dragon crew socks (with clear branding visible near the cuff and a noticeable plushness) are almost magically presented, perhaps floating into frame or dramatically pulled out from a nearby cushion. A close-up shows the person's expression shift from despair to hopeful intrigue as they grasp the socks. They quickly pull them on, with a satisfying 'whoosh' sound effect. As the second sock settles, their entire demeanor transforms. Their face lights up with pure bliss. They spring up from the beanbag with impossible lightness, immediately resuming their 'comfort dance' from Scene 1, but this time, they are graceful, floating, and gliding effortlessly across the hard floor. They might even execute a comical, smooth moonwalk or an exaggeratedly soft tap-dance, ending with a final shot of their feet, perfectly cushioned in the white Blue Dragon socks, looking incredibly comfortable and bouncy.",
+      "visual_cues": [
+        "Same person slumped on beanbag.",
+        "Close-up on the pristine white Blue Dragon crew socks, emphasizing their premium look and visible cushioning.",
+        "Slow-motion shot of the person pulling on the socks, highlighting the plush interior.",
+        "Instantaneous facial transformation from agony to euphoria.",
+        "Person springs up, performing a light, 'floating' version of their previous dance, exaggeratedly smooth movements.",
+        "Final shot focused on the feet, showcasing the white Blue Dragon socks looking supremely comfortable on the hard floor."
+      ],
+      "audio_cues": [
+        "A soft, almost magical 'whoosh' as the socks appear.",
+        "A heavenly, exaggerated 'Aaaah' sound effect as the socks go on.",
+        "The background music shifts to something ethereal, whimsical, and incredibly light, with subtle 'gliding' sound effects.",
+        "A gentle, satisfying 'plush' sound effect with each soft landing of their feet.",
+        "A final, resonant sound of comfort (e.g., a soft chime or hum)."
+      ],
+      "on_screen_text": [
+        {
+          "text": "Blue Dragon Socks: Superior Cushioning.",
+          "time_start": 6.0,
+          "time_end": 7.5
+        },
+        {
+          "text": "All-Day Comfort.",
+          "time_start": 7.0,
+          "time_end": 8.0
+        }
+      ]
+    }
+  ],
+  "image_prompts": [
+    "Professional product shot of Blue Dragon on clean white background",
+    "Flat lay styling shot with Blue Dragon and complementary fashion items",
+    "Close-up detail of Blue Dragon fabric texture and construction",
+    "Lifestyle shot of Blue Dragon in everyday wear context",
+    "Artistic composition highlighting the premium quality of Blue Dragon"
+  ],
+  "voiceover_script": "Feet feeling\u2026 just okay? Unacceptable! Introducing Blue Dragon socks. These aren\u2019t just socks, they\u2019re an experience. Premium cotton blend for ultimate comfort, all day long. Plus, serious moisture-wicking \u2013 no more swamp foot! And check out that reinforced heel and toe; built tough. Your feet deserve this. Discover Blue Dragon socks today. Seriously, go on."
+}

@@ -1,0 +1,75 @@
+{
+  "pipeline_metrics": {
+    "total_reels_generated": 0,
+    "generation_time_avg_seconds": 0,
+    "success_rate": 0,
+    "last_run": null,
+    "errors": []
+  },
+  "content_performance": {
+    "by_product": {},
+    "by_style": {},
+    "by_platform": {
+      "instagram": {
+        "total_posts": 0,
+        "avg_engagement_rate": 0,
+        "avg_views": 0,
+        "avg_likes": 0,
+        "avg_comments": 0,
+        "avg_shares": 0
+      },
+      "tiktok": {
+        "total_posts": 0,
+        "avg_engagement_rate": 0,
+        "avg_views": 0,
+        "avg_likes": 0,
+        "avg_comments": 0,
+        "avg_shares": 0
+      },
+      "youtube_shorts": {
+        "total_posts": 0,
+        "avg_engagement_rate": 0,
+        "avg_views": 0,
+        "avg_likes": 0,
+        "avg_comments": 0,
+        "avg_shares": 0
+      }
+    }
+  },
+  "ai_model_performance": {
+    "fash_2_0": {
+      "total_requests": 0,
+      "success_rate": 0,
+      "avg_generation_time": 0,
+      "quality_scores": []
+    },
+    "veo2": {
+      "total_requests": 0,
+      "success_rate": 0,
+      "avg_generation_time": 0,
+      "quality_scores": []
+    },
+    "gemini_audio": {
+      "total_requests": 0,
+      "success_rate": 0,
+      "avg_generation_time": 0,
+      "quality_scores": []
+    }
+  },
+  "business_metrics": {
+    "cost_per_reel": 0,
+    "revenue_attribution": {},
+    "roi_by_product": {},
+    "conversion_rates": {
+      "view_to_click": 0,
+      "click_to_purchase": 0,
+      "overall_conversion": 0
+    }
+  },
+  "optimization_insights": {
+    "best_performing_styles": [],
+    "optimal_posting_times": {},
+    "trending_elements": [],
+    "audience_preferences": {}
+  }
+} 

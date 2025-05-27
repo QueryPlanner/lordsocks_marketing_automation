@@ -1,0 +1,107 @@
+{
+  "date": "2025-05-26",
+  "reel_number": 3,
+  "sock_id": "luxury_dress_003",
+  "format_type": "video_focused",
+  "duration": 16,
+  "content_style": {
+    "ad_style": "humor",
+    "voice_style": "male_quirky",
+    "mood": "fun",
+    "target_emotion": "entertainment"
+  },
+  "video_prompts": [
+    {
+      "title": "The Boardroom Ballet",
+      "duration_seconds": 8,
+      "setting": "INT. LUXURY BOARDROOM - DAY. A sleek, modern boardroom with a large polished table and high-backed leather chairs. Sunlight streams through large windows.",
+      "characters": [
+        "MARK (40s, impeccably dressed in a sharp, dark suit, tie slightly askew, with a subtle sheen of sweat on his forehead despite the cool room).",
+        "VARIOUS BOARD MEMBERS (50s-60s, stern, professional, observing Mark with a mix of concentration and growing bewilderment)."
+      ],
+      "visual_description": [
+        {
+          "time": "0-2s",
+          "description": "WIDE SHOT: Mark stands at the head of the table, holding a laser pointer, trying to deliver a crucial, high-stakes presentation. He\u2019s speaking, but his eyes dart nervously, and his posture is slightly hunched, as if holding something in."
+        },
+        {
+          "time": "2-5s",
+          "description": "LOW ANGLE CLOSE-UP: Focus on Mark's feet under the table. His expensive dress shoes are polished, but his generic black sock on one foot is noticeably crumpled and sliding down around his ankle, creating an uncomfortable bunched-up look. His foot is subtly, but desperately, wiggling and trying to readjust the sock inside his shoe, causing his shoe to 'dance' almost imperceptibly."
+        },
+        {
+          "time": "5-7s",
+          "description": "MEDIUM SHOT: Back to Mark. He\u2019s mid-sentence, but his brow is furrowed, and his voice cracks slightly as he tries to force out a complex financial projection. A BOARD MEMBER (50s, female) across the table subtly tilts her head, a hint of confusion and concern on her face, noticing Mark\u2019s bizarre distraction. Mark briefly loses his train of thought, stammering."
+        },
+        {
+          "time": "7-8s",
+          "description": "CLOSE-UP: Mark's eye twitches as he forces a strained smile, clearly battling an internal, foot-related crisis."
+        }
+      ],
+      "audio_description": [
+        {
+          "time": "0-7s",
+          "description": "Tense, slightly comedic corporate suspense music. Mark's strained voice: '...and our Q3 projections indicate... (voice cracks, sounds like a squeak) ...a monumental shift in... (muttering) ...shareholder... (a faint, exaggerated 'Sliiiide' sound effect, like fabric on skin) ...value.'"
+        },
+        {
+          "time": "7-8s",
+          "description": "The music swells slightly with Mark's twitch. A barely audible, frustrated 'Mmph!' from Mark."
+        }
+      ],
+      "on_screen_text": [
+        {
+          "time": "6-8s",
+          "text": "Is your professionalism slipping?"
+        }
+      ]
+    },
+    {
+      "title": "The Sock-Powered Pitch",
+      "duration_seconds": 8,
+      "setting": "INT. LUXURY BOARDROOM - DAY. Same boardroom, minutes later. The atmosphere is now electrifyingly confident and positive.",
+      "characters": [
+        "MARK (now exuding an almost superhuman level of confidence, sharp suit, impeccably composed).",
+        "VARIOUS BOARD MEMBERS (now leaning forward, captivated, some nodding in admiration, one even subtly fanning themselves as if in awe)."
+      ],
+      "visual_description": [
+        {
+          "time": "0-2s",
+          "description": "WIDE SHOT: Mark stands tall and commanding, confidently pacing beside the table. He gestures broadly, his movements fluid and unburdened. He looks completely transformed."
+        },
+        {
+          "time": "2-5s",
+          "description": "LOW ANGLE SHOT: Focus on Mark's lower legs and feet as he strides and confidently pivots. His CHARCOAL GREY LordSocks are now perfectly visible above his shoes, sleek, smooth, and hugging his ankles impeccably. There's no bunching, no slipping. They look truly luxurious. He performs a confident, almost theatrical foot tap on the polished floor."
+        },
+        {
+          "time": "5-7s",
+          "description": "MEDIUM SHOT: Mark delivers his closing remarks with a booming, charismatic voice. The BOARD MEMBERS are mesmerized. One BOARD MEMBER (same female from Scene 1) looks utterly impressed, then subtly nudges her colleague, giving a knowing, admiring glance down towards Mark's feet."
+        },
+        {
+          "time": "7-8s",
+          "description": "CLOSE-UP: Mark's face. A subtle, confident, almost smug grin spreads across his face as he delivers his final line. The camera then quickly pans down to a pristine, perfectly stretched LORD SOCKS logo tag near his ankle, just visible."
+        }
+      ],
+      "audio_description": [
+        {
+          "time": "0-7s",
+          "description": "Upbeat, sophisticated, triumphant corporate music. Mark's booming, clear voice: '...and with LordSocks, gentlemen, we ensure that every step you take is one of unparalleled comfort, unshakeable confidence... (dramatic pause, a soft 'swoosh' sound effect as if silk is moving perfectly) ...and undeniable success!'"
+        },
+        {
+          "time": "7-8s",
+          "description": "Music swells to a crescendo. A subtle, satisfied 'click' sound as if something perfectly falls into place. 'LordSocks' voiceover: 'LordSocks: Luxury Dress Socks. Elevate Every Step.'"
+        }
+      ],
+      "on_screen_text": [
+        {
+          "time": "0-4s",
+          "text": "LordSocks: Unrivaled Comfort. Unstoppable Confidence."
+        },
+        {
+          "time": "4-8s",
+          "text": "Available in Black, Charcoal, Navy, Burgundy. LordSocks.com"
+        }
+      ]
+    }
+  ],
+  "image_prompts": [],
+  "voiceover_script": "Tired of your feet feeling... neglected? Step into luxury with LordSocks! Crafted from a premium merino wool blend, these socks perfectly regulate temperature and look incredibly professional. They're built for lasting durability, keeping your sock game strong. Upgrade your feet. LordSocks.com."
+}

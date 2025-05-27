@@ -35,4 +35,11 @@ Thumbs.db
 *.tif
 *.bmp
 *.heic
-*.heif 
+*.heif
+
+# Python cache
+__pycache__/ 
+
+# Ignore Google Cloud service account keys
+service-account-key.json
+*.json # If you keep all keys with .json extension and want to ignore them

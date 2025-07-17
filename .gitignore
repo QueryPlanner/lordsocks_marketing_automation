@@ -1,45 +1,60 @@
+# Google Cloud Service Account Credentials
+*.json
+*-credentials.json
+*-service-account.json
+
 # Environment variables
 .env
-*.env.*
-!/.env.example
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
-# OS-generated files
+# API Keys and secrets
+config.py
+secrets.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
 .DS_Store
-Thumbs.db
+.AppleDouble
+.LSOverride
 
-# Audio
-*.mp3
-*.wav
-*.aac
-*.flac
-*.ogg
-*.m4a
+# Temporary files
+*.tmp
+*.temp
+*.log
 
-# Video
-*.mp4
-*.mov
-*.avi
-*.mkv
-*.webm
-*.flv
-*.wmv
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
 
-# Images
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.svg
-*.webp
-*.tiff
-*.tif
-*.bmp
-*.heic
-*.heif
-
-# Python cache
-__pycache__/ 
-
-# Ignore Google Cloud service account keys
-service-account-key.json
-*.json # If you keep all keys with .json extension and want to ignore them
+# Generated content (if you don't want to track generated files)
+generated_reels/
